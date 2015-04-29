@@ -1,6 +1,6 @@
 {
   "name": "smartling-angular-templates-helper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Additional processing step for wrapping the output of grunt-angular-templates in smartling tags so that smartling knows to translate the strings",
   "main": "smartling-angular-templates-helper.js",
   "repository": {
